@@ -1,0 +1,51 @@
+.marginOff{
+	margin:0px;
+}
+.paddingOff{
+	padding:0px;
+}
+.paddingInner{
+	padding:10px;
+	box-sizing: border-box;
+}
+.paddingLeft{
+	padding-left: 50px;
+}
+.backgroundGreen{
+	background: #1CAA98;
+}
+.backgroundGrey{
+	background: #333333;
+}
+.backgroundImage{
+	height: 545px;
+	background-image: url("../img/site_showcase_bg.jpg");
+}
+.colorWhite{
+	color:white;
+}
+.colorGreen{
+	color:#1CAA98;
+}
+.noneStyle{
+	list-style: none
+}
+.marginTopBottom{
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+.marginTop{
+	margin-top:100px;
+}
+.floatLeft{
+	float:left;
+}
+.floatRight{
+	float:right;
+}
+body > nav > div.navbar-header > a {
+	color:#1CAA98;
+}
+a.navbar-brand.colorGreen{
+	color:#1CAA98;
+}
